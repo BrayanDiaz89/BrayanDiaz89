@@ -3,84 +3,96 @@
 <h1 align="center">Hola 👋, soy Brayan Díaz</h1>
 <h3 align="center">Apasionado por transformar ideas en soluciones backend innovadoras desde Colombia</h3>
 
----
-
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
 
-### 🌟 Sobre mí:
-- 🔭 Actualmente trabajo en el desarrollo de una API Rest llamada [JannieVET](https://github.com/BrayanDiaz89/API-Rest_JannieVet).
-- 🌱 En este momento estoy aprendiendo **Spring Framework**.
-- 👨‍💻 Puedes encontrar todos mis proyectos en [Mis Repositorios](https://github.com/BrayanDiaz89?tab=repositories).
-- 📫 Contáctame en: **brayandiaz258f@gmail.com**.
-- ⚡ Dato curioso: **Soy muy proactivo, innovador y me encanta agregar valor a todo lo que hago.**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brayandiaz89&label=Profile%20views&color=0e75b6&style=flat" alt="brayandiaz89" /> </p>
 
 ---
 
-### 🌐 Conecta conmigo:
-<p align="left">
-  <a href="https://linkedin.com/in/brayan-diaz-dvlp" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brayan-diaz-dvlp" height="30" width="40" />
-  </a>
-</p>
+### 🚀 Sobre mí
+Soy un ingeniero de sistemas con experiencia en desarrollo backend, dedicado a crear aplicaciones robustas, escalables y optimizadas. Me apasiona resolver problemas complejos mediante soluciones creativas y eficientes.  
+✨ **Mi objetivo:** Impactar positivamente el mundo con tecnología innovadora.
+
+- 🌍 Actualmente con intereses por aprender sobre microservicios y diseño arquitectónico.  
+- 🛠️ Amante de los desafíos técnicos y la colaboración en equipo.
 
 ---
 
-<h3 align="center">🛠️ Lenguajes y Herramientas</h3>
+### 🌟 Logros destacados
+- 🚀 **Fororacle API:** Desarrollo de una API REST completa para la gestión de foros participativos. Permite a los usuarios crear, editar y participar en discusiones temáticas, un backend altamente optimizado. **Incluye autenticación segura y gestión de usuario Admin**.
+- 🚀 **JannieVET API:** Actualmente en desarrollo de una API REST completa para la gestión de clínicas veterinarias. Permite registrar pacientes, programar citas, administrar historiales médicos y gestionar inventarios de medicamentos. Su diseño modular facilita la escalabilidad, incluye autenticación segura basada en JWT y soporte para múltiples roles de usuario, mejorando la eficiencia operativa en las clínicas.
+- 🏆 **Certificaciones:** Finalización de programa Backend 306hrs. Certificado por Alura Latam y Oracle.
 
-#### 🌟 Frameworks y Librerías
+---
+
+<h2 align="center"> 📚 Tecnologías y herramientas</h2>
+
+#### **💻 Lenguajes de Programación**
 <p align="center">
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="50" height="50" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50" />&nbsp;&nbsp;
 </p>
 
-#### 🖥️ Lenguajes de Programación
+#### **⚙️ Frameworks y Librerías**
 <p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50" />
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/flask.svg" alt="flask" width="50" height="50" />&nbsp;&nbsp;
 </p>
 
-#### 🗄️ Gestores de Bases de Datos
+#### **🗃️ Gestores de Bases de Datos**
 <p align="center">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" />&nbsp;&nbsp;
+</p>
+
+#### **🛠️ Herramientas de Desarrollo**
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />&nbsp;&nbsp;
 </p>
 
 ---
 
-### 📊 Estadísticas de GitHub:
+### 🎯 Áreas de interés
+- 🌐 Arquitectura de software y microservicios.  
+- ⚡ Optimización de APIs para alto rendimiento.  
+- 🤖 Exploración de inteligencia artificial aplicada al backend.  
+
+---
+
+### 📈 Mi impacto en GitHub
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brayandiaz89&show_icons=true&locale=en" alt="brayandiaz89" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brayandiaz89&show_icons=true&locale=es" alt="brayandiaz89" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brayandiaz89&theme=radical" alt="brayandiaz89" />
 </p>
+
+---
+
+### 🌐 Proyectos destacados
+- **[Fororacle](https://github.com/BrayanDiaz89/API_Rest-ForOracle):** API REST para la gestión de foros participativos.  
+Es un proyecto realizado en Java con Spring, que fue desarrollado para la aprobación del programa Oracle Next Education, especializado en formación Backend con Alura Latam y Oracle, el cual está pensado en demostrar los conocimientos adquiridos durante las formaciones y así proponer una solución altamente escalable y que se relacione con el mundo real.
+
+---
+
+### 🌱 Actualmente estoy aprendiendo
+- Spring Framework y patrones de diseño.  
+- Mejores prácticas para APIs RESTful y microservicios.  
+
+---
+
+### 📫 Contáctame
+- ✉️ **Correo:** brayandiaz258f@gmail.com  
+- 🔗 **LinkedIn:** [Brayan Díaz](https://linkedin.com/in/brayan-diaz-dvlp)
+
+---
+
+### 🤝 Colaboraciones
+Estoy abierto a colaborar en proyectos que aporten valor y desafíen mis habilidades técnicas. ¿Tienes una idea interesante? ¡Hablemos! 🚀
+
+
 
 
