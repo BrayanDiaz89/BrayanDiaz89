@@ -67,7 +67,7 @@ Soy un ingeniero de sistemas con experiencia en desarrollo backend, dedicado a c
 ### 📈 Mi impacto en GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brayandiaz89&show_icons=true&locale=es" alt="brayandiaz89" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brayandiaz89&theme=radical" alt="brayandiaz89" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brayandiaz89&theme=default" alt="brayandiaz89" />
 </p>
 
 ---
