@@ -1,6 +1,9 @@
-<img alt="Coding" width="100%" height="220px" src="https://beingfa.com/wp-content/uploads/2014/10/coding-banner.jpg">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=40&center=true&width=600&lines=¡Hola+Mundo!...;Bienvenidos+a+mi+perfil...;Desarrollador+Backend...;Inteligencia+Artificial..." />
+</div>
 
-<h1 align="center">Hola 👋, soy Brayan Díaz</h1>
+
+<h1 align="center">¡Hola!, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> soy Brayan Díaz</h1>
 <h3 align="center">Apasionado por transformar ideas en soluciones backend innovadoras desde Colombia</h3>
 
 ---
@@ -30,7 +33,7 @@
 
 ---
 
-<h2 align="center"> 📚 Tecnologías y herramientas</h2>
+<h2 align="center"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> 📚 Tecnologías y herramientas</h2>
 
 #### **💻 Lenguajes de Programación**
 <p align="center">
