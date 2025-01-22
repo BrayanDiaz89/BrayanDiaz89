@@ -51,6 +51,8 @@ Soy un ingeniero de sistemas con experiencia en desarrollo backend, dedicado a c
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" alt="github" width="50" height="50" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/trello.svg" alt="trello" width="50" height="50" />&nbsp;&nbsp;
 </p>
 
 ---
