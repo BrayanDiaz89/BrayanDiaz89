@@ -100,14 +100,6 @@ Es un proyecto realizado en Java con Spring, que fue desarrollado para la aproba
 
 ---
 
-### 📫 Contáctame 
-<a href="mailto:brayandiaz258f@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
-<a href="https://linkedin.com/in/brayan-diaz-dvlp"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
-
-<br style="clear: both;">
-
----
-
 ### 🤝 Colaboraciones
 <h4 align="center">Estoy abierto a colaborar en proyectos que aporten valor y desafíen mis habilidades técnicas. ¿Tienes una idea interesante? ¡Hablemos! 🚀</h4>
 
