@@ -7,10 +7,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=brayandiaz89&label=Profile%20views&color=0e75b6&style=flat" alt="brayandiaz89" />
-</p>
-
 ### 🌟 Sobre mí:
 - 🔭 Actualmente trabajo en el desarrollo de una API Rest llamada [JannieVET](https://github.com/BrayanDiaz89/API-Rest_JannieVet).
 - 🌱 En este momento estoy aprendiendo **Spring Framework**.
