@@ -98,7 +98,7 @@ Es un proyecto realizado en Java con Spring, que fue desarrollado para la aproba
 ---
 
 ### 🤝 Colaboraciones
-Estoy abierto a colaborar en proyectos que aporten valor y desafíen mis habilidades técnicas. ¿Tienes una idea interesante? ¡Hablemos! 🚀
+<h4 align="center">Estoy abierto a colaborar en proyectos que aporten valor y desafíen mis habilidades técnicas. ¿Tienes una idea interesante? ¡Hablemos! 🚀</h4>
 
 
 
