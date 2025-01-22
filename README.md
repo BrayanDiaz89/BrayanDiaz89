@@ -3,9 +3,10 @@
 <h1 align="center">Hola 👋, soy Brayan Díaz</h1>
 <h3 align="center">Apasionado por transformar ideas en soluciones backend innovadoras desde Colombia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
-
 ---
+<div style="clear: both; margin-top: 20px;">
+  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
+</div>
 
 ### 🚀 Sobre mí
 Soy un ingeniero de sistemas con experiencia en desarrollo backend, dedicado a crear aplicaciones robustas, escalables y optimizadas. Me apasiona resolver problemas complejos mediante soluciones creativas y eficientes.  
