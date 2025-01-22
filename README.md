@@ -1,7 +1,7 @@
 <img alt="Coding" width="100%" height="220px" src="https://beingfa.com/wp-content/uploads/2014/10/coding-banner.jpg">
 
 <h1 align="center">Hola 👋, soy Brayan Díaz</h1>
-<h3 align="center">Desarrollador Backend apasionado de Colombia</h3>
+<h3 align="center">Apasionado por transformar ideas en soluciones backend innovadoras desde Colombia</h3>
 
 ---
 
