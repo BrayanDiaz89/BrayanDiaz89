@@ -2,7 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=40&center=true&width=600&height=80&lines=¡Hola+Mundo!;Bienvenidos+a+mi+perfil;Soy+desarrollador+Backend...;Estudiante+Inteligencia+Artificial..." />
 </div>
 <h1 align="center">¡Hola!, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> soy Brayan Díaz</h1>
-<h3 align="center">Apasionado por transformar ideas en soluciones backend innovadoras desde Colombia</h3>
+
+<div align="center">
+<a href="mailto:brayandiaz258f@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
+<a href="https://linkedin.com/in/brayan-diaz-dvlp"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+</div>
+
+<h3 align="center"> 
+Apasionado por transformar ideas en soluciones backend innovadoras desde Colombia
+</h3>
 
 ---
 <div style="clear: both; margin-top: 20px;">
@@ -92,14 +100,17 @@ Es un proyecto realizado en Java con Spring, que fue desarrollado para la aproba
 
 ---
 
-### 📫 Contáctame
-- ✉️ **Correo:** brayandiaz258f@gmail.com  
-- 🔗 **LinkedIn:** [Brayan Díaz](https://linkedin.com/in/brayan-diaz-dvlp)
+### 📫 Contáctame 
+<a href="mailto:brayandiaz258f@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
+<a href="https://linkedin.com/in/brayan-diaz-dvlp"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+
+<br style="clear: both;">
 
 ---
 
 ### 🤝 Colaboraciones
 <h4 align="center">Estoy abierto a colaborar en proyectos que aporten valor y desafíen mis habilidades técnicas. ¿Tienes una idea interesante? ¡Hablemos! 🚀</h4>
+
 
 
 
