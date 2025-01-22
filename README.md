@@ -9,18 +9,24 @@
 </div>
 
 ### 🚀 Sobre mí
-Soy un ingeniero de sistemas con experiencia en desarrollo backend, dedicado a crear aplicaciones robustas, escalables y optimizadas. Me apasiona resolver problemas complejos mediante soluciones creativas y eficientes.  
-✨ **Mi objetivo:** Impactar positivamente el mundo con tecnología innovadora.
+<p style="text-align: justify;">
+  Soy un ingeniero de sistemas con experiencia en desarrollo backend, dedicado a crear aplicaciones robustas, escalables y optimizadas. Me apasiona resolver problemas complejos mediante soluciones creativas y eficientes.  
+  ✨ <strong>Mi objetivo:</strong> Impactar positivamente el mundo con tecnología innovadora.
+</p>
 
-- 🌍 Actualmente con intereses por aprender sobre microservicios y diseño arquitectónico.  
-- 🛠️ Amante de los desafíos técnicos y la colaboración en equipo.
+<ul style="text-align: justify;">
+  <li>🌍 Actualmente con intereses por aprender sobre microservicios y diseño arquitectónico.</li>
+  <li>🛠️ Amante de los desafíos técnicos y la colaboración en equipo.</li>
+</ul>
 
 ---
 
 ### 🌟 Logros destacados
-- 🚀 **Fororacle API:** Desarrollo de una API REST completa para la gestión de foros participativos. Permite a los usuarios crear, editar y participar en discusiones temáticas, un backend altamente optimizado. **Incluye autenticación segura y gestión de usuario Admin**.
-- 🚀 **JannieVET API:** Actualmente en desarrollo de una API REST completa para la gestión de clínicas veterinarias. Permite registrar pacientes, programar citas, administrar historiales médicos y gestionar inventarios de medicamentos. Su diseño modular facilita la escalabilidad, incluye autenticación segura basada en JWT y soporte para múltiples roles de usuario, mejorando la eficiencia operativa en las clínicas.
-- 🏆 **Certificaciones:** Finalización de programa Backend 306hrs. Certificado por Alura Latam y Oracle.
+<ul style="text-align: justify;">
+  <li>🚀 <strong>Fororacle API:</strong> Desarrollo de una API REST completa para la gestión de foros participativos. Permite a los usuarios crear, editar y participar en discusiones temáticas, un backend altamente optimizado. <strong>Incluye autenticación segura y gestión de usuario Admin.</strong></li>
+  <li>🚀 <strong>JannieVET API:</strong> Actualmente en desarrollo de una API REST completa para la gestión de clínicas veterinarias. Permite registrar pacientes, programar citas, administrar historiales médicos y gestionar inventarios de medicamentos. Su diseño modular facilita la escalabilidad, incluye autenticación segura basada en JWT y soporte para múltiples roles de usuario, mejorando la eficiencia operativa en las clínicas.</li>
+  <li>🏆 <strong>Certificaciones:</strong> Finalización de programa Backend 306hrs. Certificado por Alura Latam y Oracle.</li>
+</ul>
 
 ---
 
