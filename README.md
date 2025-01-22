@@ -1,28 +1,90 @@
-<img alt="Coding" width="100%" src="https://beingfa.com/wp-content/uploads/2014/10/coding-banner.jpg">
+<img alt="Coding" width="100%" height="220px" src="https://beingfa.com/wp-content/uploads/2014/10/coding-banner.jpg">
+
 <h1 align="center">Hola 👋, soy Brayan Díaz</h1>
-<h3 align="center">Un apasionado desarrollador backend de Colombia</h3>
+<h3 align="center">Desarrollador Backend apasionado de Colombia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/edd6a178ee6a4b30c0bf595da631485f25e8a863620e3efe386969cc11e70bc3/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brayandiaz89&label=Profile%20views&color=0e75b6&style=flat" alt="brayandiaz89" /> </p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
 
-- 🔭 Actualmente estoy trabajando en el desarrollo de una API Rest [JannieVET](https://github.com/BrayanDiaz89/API-Rest_JannieVet)
-
-- 🌱 Actualmente estoy aprendiendo **Spring framework**
-
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/BrayanDiaz89?tab=repositories](https://github.com/BrayanDiaz89?tab=repositories)
-
-- 📫 Contáctame por correo **brayandiaz258f@gmail.com**
-
-- ⚡ Dato curioso **Me gusta ser muy proactivo, innovador y agregar valor a lo que hago**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/brayan-diaz-dvlp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brayan-diaz-dvlp" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=brayandiaz89&label=Profile%20views&color=0e75b6&style=flat" alt="brayandiaz89" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### 🌟 Sobre mí:
+- 🔭 Actualmente trabajo en el desarrollo de una API Rest llamada [JannieVET](https://github.com/BrayanDiaz89/API-Rest_JannieVet).
+- 🌱 En este momento estoy aprendiendo **Spring Framework**.
+- 👨‍💻 Puedes encontrar todos mis proyectos en [Mis Repositorios](https://github.com/BrayanDiaz89?tab=repositories).
+- 📫 Contáctame en: **brayandiaz258f@gmail.com**.
+- ⚡ Dato curioso: **Soy muy proactivo, innovador y me encanta agregar valor a todo lo que hago.**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brayandiaz89&show_icons=true&locale=en" alt="brayandiaz89" /></p>
+---
+
+### 🌐 Conecta conmigo:
+<p align="left">
+  <a href="https://linkedin.com/in/brayan-diaz-dvlp" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brayan-diaz-dvlp" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">🛠️ Lenguajes y Herramientas</h3>
+
+#### 🌟 Frameworks y Librerías
+<p align="center">
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="50" height="50" />
+  </a>
+</p>
+
+#### 🖥️ Lenguajes de Programación
+<p align="center">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50" />
+  </a>
+</p>
+
+#### 🗄️ Gestores de Bases de Datos
+<p align="center">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50" />
+  </a>
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub:
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brayandiaz89&show_icons=true&locale=en" alt="brayandiaz89" />
+</p>
+
 
