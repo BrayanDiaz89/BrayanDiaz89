@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=40&center=true&width=600&height=80&lines=¡Hola+Mundo!;Bienvenidos+a+mi+perfil;Soy+desarrollador+Backend..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=40&center=true&width=600&height=80&lines=¡Hola+Mundo!;Bienvenidos+a+mi+perfil;Soy+desarrollador+Backend; Y un programador en constante desarrollo..." />
 </div>
 <h1 align="center">¡Es un gusto!, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> soy Brayan Díaz</h1>
 
